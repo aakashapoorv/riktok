@@ -23,8 +23,7 @@ A lightweight, beautiful API client built with Tauri, Rust, and React. Experienc
 
 Download the latest version for your Mac:
 
-- **Apple Silicon (M1/M2/M3)**: [RikTok_0.1.0_aarch64.dmg](#)
-- **Intel Macs**: [RikTok_0.1.0_x64.dmg](#)
+- **Apple Silicon (M1/M2/M3)**: [RikTok_0.1.0_aarch64.dmg](https://github.com/aakashapoorv/riktok/releases/download/v0.1.0/RikTok_0.1.0_aarch64.dmg)
 
 ### System Requirements
 
