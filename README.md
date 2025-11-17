@@ -6,6 +6,12 @@ A lightweight, beautiful API client built with Tauri, Rust, and React. Experienc
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)
 ![License](https://img.shields.io/badge/license-Proprietary-red)
 
+
+
+https://github.com/user-attachments/assets/130d4274-070f-4554-91f1-48bbad611a2a
+
+
+
 ## ✨ Features
 
 - 🎨 **Liquid Glass UI** - Beautiful, modern interface with glassmorphism design
