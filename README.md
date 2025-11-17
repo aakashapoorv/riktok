@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/130d4274-070f-4554-91f1-48bbad611a2a
 
 Download the latest version for your Mac:
 
-- **Apple Silicon (M1/M2/M3)**: [RikTok_0.1.0_aarch64.dmg](https://github.com/aakashapoorv/riktok/releases/download/v0.1.0/RikTok_0.1.0_aarch64.dmg)\
+- **Apple Silicon (M1/M2/M3)**: [RikTok_0.1.0_aarch64.dmg](https://github.com/aakashapoorv/riktok/releases/download/v0.1.0/RikTok_0.1.0_aarch64.dmg)
 - App not yet notarized (requires Security & Privacy approval on first launch)
 - Run following command in terminal to remove quarantine
 - `sudo xattr -dr com.apple.quarantine /Applications/RikTok.app`
